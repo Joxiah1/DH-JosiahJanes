@@ -12,4 +12,6 @@ https://www.yourclassical.org/
 
 NevadaGovWebsite.jpg
 
+https://raw.githubusercontent.com/Joxiah1/DH110-JosiahJanes/main/a01/NevadaGovWebsite.jpg
+
 ! [Website of Nevada Government] (NevadaGovWebsite.jpg)
