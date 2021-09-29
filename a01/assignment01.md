@@ -7,10 +7,11 @@ Assignment Purpose: The purpose of this assignment is to critically examine the 
 ---
 
 ## 1. Heuristic Evaluation of Nevada's Official Department of Motor Vehicles Website
-
 ![Screenshot of Nevada DMV Website](nevadadmv.png)
+https://dmvnv.com/
 
 ---
 
 ## 2. Heuristic Evaluation of Nevada's Official Tax Center Website
 ![Screenshot of Nevada Tax Center Website](nevadatax.jpg)
+https://nevadatax.nv.gov/#
