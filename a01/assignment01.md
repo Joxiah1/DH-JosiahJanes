@@ -12,7 +12,7 @@ Heuristic Evaluation of Nevada's Official Department of Motor Vehicles Website
 
 ---
 
-Heuristic Evaluation of Nevada'a Official Tax Center Website
+Heuristic Evaluation of Nevada's Official Tax Center Website
 ![Screenshot of Nevada Tax Center Website](nevadatax.jpg)
 
 https://raw.githubusercontent.com/Joxiah1/DH110-JosiahJanes/main/a01/NevadaGovWebsite.jpg
