@@ -1,8 +1,8 @@
-# (Title of your project)
+# Evaluation of Usability Heuristics on Nevada's Official Government Website
 
-## (your name, course information)
+## Josiah Janes, Digital Humanities 110, Professor Sookyung Cho, Fall 2021
 
-### assignment01: heuristic evaluation of Arizona
+### Assignment 01: Heuristic Evaluation of Nevada's Official Government Website
 
 ---
 
