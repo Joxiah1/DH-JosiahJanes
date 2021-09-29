@@ -10,11 +10,11 @@ Assignment Purpose: The purpose of this assignment is to critically examine the 
 ![Screenshot of Nevada DMV Website](nevadadmv.png)
 https://dmvnv.com/
 
-### Background Information
+#### Background Information
 
 Nevada's Official Department of Motor Vehicles Website is used by citizens to obtain information about obtaining a driver's license, registering a vehicle, obtaining a license plate, and much more. While the DMV often requires citizens to come in to the department in person to fulfill their requests, there are some processes that take place entirely online, which makes the site's usability even more important.
 
-### Heuristic Evaluation
+#### Heuristic Evaluation
 
 a
 
