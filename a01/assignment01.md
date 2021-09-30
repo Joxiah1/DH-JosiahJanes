@@ -1,4 +1,4 @@
-# Assignment 01: Evaluation of Usability Heuristics on Nevada's Official Government Website
+# Assignment 01: Evaluation of Usability Heuristics on Nevada's Official Government Websites
 
 ## Josiah Janes, Digital Humanities 110, Professor Sookyung Cho, Fall 2021
 
