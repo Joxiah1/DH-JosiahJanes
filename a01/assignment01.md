@@ -48,8 +48,8 @@ Overall Evaluation:
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 | ----------------------- | ---------- | ---------------------- | ------------------ |
-| **1. Visibility of System Status:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **2. Match Between System and the Real World:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **1. Visibility of System Status:**<br>The site does a great job of communicating system status and operation with the user.| **Good:** The website uses hover functionality and cursor blinking to communicate the user's place within the website. | N/A | 1 |
+| **2. Match Between System and the Real World:**The site's design does not mirror the real life application of its tools. | **Bad:** Apart from an image of Nevada, the site lacks any photos or design that further mirrors the real world application of the tools it provides. However, this is a rather hard task when it comes to something like filing taxes. | Add additional photos to provide context to the user regarding the outcomes of their actions on the site. | 1 |
 | **3. User Control and Freedom:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **4. Error Prevention:** | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br>The site effectively prevents users from causing errors or making mistakes. | **Good:** The site provides users with a second chance to evaluate their work before navigating away from it.<br> | N/A | 1 |
