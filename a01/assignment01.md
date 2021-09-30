@@ -44,7 +44,7 @@ Nevada's Official Tax Center Website is used by citizens to manage their busines
 
 #### Heuristic Evaluation
 
-Overall Evaluation: 
+Overall Evaluation: The Nevada Tax Center website benefits from an incredibly simple and straightforward design. It also benefits from its stylized text, hover functionality, and overall modern design. However, the site's simple aesthetic comes at the cost of being rather uninformative.
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 | ----------------------- | ---------- | ---------------------- | ------------------ |
