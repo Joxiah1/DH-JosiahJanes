@@ -22,7 +22,7 @@ Overall Evaluation:
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 | ----------------------- | ---------- | ---------------------- | ------------------ |
-| **1. Visibility of System Status:**<br>The site clearly communicates the system status of the site.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **1. Visibility of System Status:**<br>The site clearly communicates the system status of the site.| **Good:** Use of loading bars and overall simple design prevents users from feeling confused or lost during use.<br>**Bad:** Not all links are highlighted when hovered, which may confuse some users. | Make all links have distinctive hover properties. | 1 |
 | **2. Match Between System and the Real World:**<br>The website makes use of some images to familiarize the user with the contents of the information, but they are rarely used.| **Good:** Some images<br>**Bad:** x | Improvements Here | Severity Here |
 | **3. User Control and Freedom:**<br>The website makes great use of undo and redo features and users can easily backtrack to previous pages using the browser's navigation arrows. | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **4. Error Prevention:**<br>The website makes use of error prevention messages to prevent the user from blank submissions.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
