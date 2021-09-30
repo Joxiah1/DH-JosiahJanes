@@ -51,13 +51,13 @@ Overall Evaluation:
 | **1. Visibility of System Status:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **2. Match Between System and the Real World:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **3. User Control and Freedom:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **4. Error Prevention:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **4. Error Prevention:** | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br>The site effectively prevents users from causing errors or making mistakes. | **Good:** The site provides users with a second chance to evaluate their work before navigating away from it.<br>**Bad:** x | Improvements Here | Severity Here |
 | **6. Consistency and Standards:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **7. Recognition Rather than Recall:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **8. Flexibility and Efficiency of Use:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **9. Aesthetic and Minimalist Design:**<br>The website has an excellent aesthetic and its minimalist design makes the site more accessible as well | **Good:** The site's overall layout is very easy on the eyes and allows users to better focus on the site's main functionalities and tools.<br>**Bad:** The site is not incredibly informative, however this could be a benefit in some scenarios. | Keep the site's simple overall layout, but perhaps provide a section that has more descriptive information for more detail-oriented users. | 1 |
-| **10. Help and Documentation:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **10. Help and Documentation:**<br>The site provides users with proper help with input functionality. | **Good:** The website provides users with help tips while signing in.<br>**Bad:** These tips appear a bit too early i.e. after typing the first letter in a password, a red warning box pops up telling the user to enter their password. | Relax these help tips just a bit to avoid aggravating the user. | 1 |
 
 ---
 
