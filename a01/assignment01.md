@@ -52,7 +52,7 @@ Overall Evaluation:
 | **2. Match Between System and the Real World:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **3. User Control and Freedom:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **4. Error Prevention:** | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br>The site effectively prevents users from causing errors or making mistakes. | **Good:** The site provides users with a second chance to evaluate their work before navigating away from it.<br>**Bad:** x | Improvements Here | Severity Here |
+| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br>The site effectively prevents users from causing errors or making mistakes. | **Good:** The site provides users with a second chance to evaluate their work before navigating away from it.<br> | N/A | 1 |
 | **6. Consistency and Standards:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **7. Recognition Rather than Recall:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **8. Flexibility and Efficiency of Use:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
