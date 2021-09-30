@@ -16,10 +16,20 @@ Nevada's Official Department of Motor Vehicles Website is used by citizens to ob
 
 #### Heuristic Evaluation
 
-a
+Overall Evaluation: While this website is incredibly informative, 
+
+| Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 
 ---
 
 ## 2. Heuristic Evaluation of Nevada's Official Tax Center Website
 ![Screenshot of Nevada Tax Center Website](nevadatax.jpg)
 https://nevadatax.nv.gov/#
+
+#### Background Information
+
+Nevada's Official Tax Center Website is used by citizens to manage their business tax filings. Nearly all of this process is done online and warrants an exceptional user experience on behalf of the website to ensure that all users can file their taxes. This site is similar to the previous website I examined in the sense that both sites are used by citizens to navigate and comply with certain registration and taxation laws. With this in mind, it will be interesting to see how each site's user experience differs.
+
+#### Heuristic Evaluation
+
+Overall Evaluation: 
