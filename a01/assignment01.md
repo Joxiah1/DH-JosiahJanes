@@ -18,7 +18,7 @@ Nevada's Official Department of Motor Vehicles Website is used by citizens to ob
 
 #### Heuristic Evaluation
 
-Overall Evaluation: 
+Overall Evaluation: The Nevada DMV website has a rather straight forward and simple design. The site does a fantastic job of providing users with an abundance of information. However, the site could improve in its ability to communicate this information by paying closer attention to aesthetics, and it could further assist users by providing additional warnings, disclaimers, and help tips to make the site more accessible.
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 | ----------------------- | ---------- | ---------------------- | ------------------ |
