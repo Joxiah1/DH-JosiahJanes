@@ -22,8 +22,8 @@ Overall Evaluation:
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 | ----------------------- | ---------- | ---------------------- | ------------------ |
-| **1. Visibility of System Status:**<br>a | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **2. Match Between System and the Real World:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **1. Visibility of System Status:**<br>The website clearly communicates the system status of the site.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **2. Match Between System and the Real World:**<br>The website makes use of some images to familiarize the user with the contents of the information, but they are rarely used.| **Good:** Some images<br>**Bad:** x | Improvements Here | Severity Here |
 | **3. User Control and Freedom:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **4. Error Prevention:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
