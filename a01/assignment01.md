@@ -43,3 +43,23 @@ Nevada's Official Tax Center Website is used by citizens to manage their busines
 #### Heuristic Evaluation
 
 Overall Evaluation: 
+
+| Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
+| ----------------------- | ---------- | ---------------------- | ------------------ |
+| **1. Visibility of System Status:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **2. Match Between System and the Real World:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **3. User Control and Freedom:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **4. Error Prevention:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **6. Consistency and Standards:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **7. Recognition Rather than Recall:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **8. Flexibility and Efficiency of Use:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **9. Aesthetic and Minimalist Design:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **10. Help and Documentation**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+
+---
+
+## Credits
+
+Jakob Nielsen's 10 Usability Heuristics (https://www.uxness.in/2015/02/10-heuristic-principles-jakob-nielsens.html)
+Joy Hsieh's Layout for Heuristic Evaluation (https://github.com/JoyHsieh/DH110-JoyHsieh-Assignment01/blob/main/README.md)
