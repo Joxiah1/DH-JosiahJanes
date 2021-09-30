@@ -20,16 +20,16 @@ Overall Evaluation: While this website is incredibly informative,
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
 | ----------------------- | ---------- | ---------------------- | ------------------ |
-| **1. Visibility of System Status:**<br> | **Good or Bad** |
-| **2. Match Between System and the Real World:**<br> | **Good or Bad** |
-| **3. User Control and Freedom:**<br> | **Good or Bad** |
-| **4. Error Prevention:**<br> | **Good or Bad** |
-| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br> | **Good or Bad** |
-| **6. Consistency and Standards:**<br> | **Good or Bad** |
-| **7. Recognition Rather than Recall:**<br> | **Good or Bad** |
-| **8. Flexibility and Efficiency of Use:**<br> | **Good or Bad** |
-| **9. Aesthetic and Minimalist Design:**<br> | **Good or Bad** |
-| **10. Help and Documentation**<br> | **Good or Bad** |
+| **1. Visibility of System Status:**<br> | **Good:** x<br>**Bad:** x |
+| **2. Match Between System and the Real World:**<br> | **Good:** x<br>**Bad:** x |
+| **3. User Control and Freedom:**<br> | **Good:** x<br>**Bad:** x |
+| **4. Error Prevention:**<br> | **Good:** x<br>**Bad:** x |
+| **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br> | **Good:** x<br>**Bad:** x |
+| **6. Consistency and Standards:**<br> | **Good:** x<br>**Bad:** x |
+| **7. Recognition Rather than Recall:**<br> | **Good:** x<br>**Bad:** x |
+| **8. Flexibility and Efficiency of Use:**<br> | **Good:** x<br>**Bad:** x |
+| **9. Aesthetic and Minimalist Design:**<br> | **Good:** x<br>**Bad:** x |
+| **10. Help and Documentation**<br> | **Good:** x<br>**Bad:** x |
 ---
 
 ## 2. Heuristic Evaluation of Nevada's Official Tax Center Website
