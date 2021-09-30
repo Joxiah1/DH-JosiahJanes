@@ -19,6 +19,7 @@ Nevada's Official Department of Motor Vehicles Website is used by citizens to ob
 Overall Evaluation: While this website is incredibly informative, 
 
 | Heuristic & Description | Evaluation | Potential Improvements | Severity of Issues |
+| ----------------------- | ---------- | ---------------------- | ------------------ |
 
 ---
 
