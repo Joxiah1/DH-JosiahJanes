@@ -31,7 +31,7 @@ Overall Evaluation: The Nevada DMV website has a rather straight forward and sim
 | **7. Recognition Rather than Recall:**<br>The site makes adequate use of search autofill tools to minimize the user's memory load.| **Good:** Typing in the site's upper right search bar provides users with autofill functionality.<br>**Bad:** Not all input bars remember the user's previous inputs. However, this can be a benefit in some cases. | Add autofill recognition to appropriate input bars. | 1 |
 | **8. Flexibility and Efficiency of Use:**<br>The site has a very simple and understandable design. | **Good:** The majority of the site is simple plain text, which is easy to understand.<br>**Bad:** However, the site suffers from walls of plain text that are laborsome for the user. | Simplify the site's information to better separate blocks of plain text. | 1 |
 | **9. Aesthetic and Minimalist Design:**<br>While the site benefits from a minimalist design, it could benefit from an increased aesthetic focus. | **Good:** The site has a very minimalist and straight forward design.<br>**Bad:** The site can be rather hard on the eyes in some places and could benefit from a deeper attention to aesthetics. | Make the site more aesethetically pleasing by slightly diversifying the site's layout. | 2 |
-| **10. Help and Documentation**<br>The site uses various help tips and disclaimers to further assist users.| **Good:** The site does a great job of informing users of where to put certain information.<br> | N/A | 1 |
+| **10. Help and Documentation:**<br>The site uses various help tips and disclaimers to further assist users.| **Good:** The site does a great job of informing users of where to put certain information.<br> | N/A | 1 |
 ---
 
 ## 2. Heuristic Evaluation of Nevada's Official Tax Center Website
@@ -56,8 +56,8 @@ Overall Evaluation:
 | **6. Consistency and Standards:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **7. Recognition Rather than Recall:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **8. Flexibility and Efficiency of Use:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **9. Aesthetic and Minimalist Design:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **10. Help and Documentation**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **9. Aesthetic and Minimalist Design:**<br>The website has an excellent aesthetic and its minimalist design makes the site more accessible as well | **Good:** The site's overall layout is very easy on the eyes and allows users to better focus on the site's main functionalities and tools.<br>**Bad:** The site is not incredibly informative, however this could be a benefit in some scenarios. | Keep the site's simple overall layout, but perhaps provide a section that has more descriptive information for more detail-oriented users. | 1 |
+| **10. Help and Documentation:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 
 ---
 
