@@ -25,13 +25,13 @@ Overall Evaluation:
 | **1. Visibility of System Status:**<br>The site clearly communicates the system status of the site.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **2. Match Between System and the Real World:**<br>The website makes use of some images to familiarize the user with the contents of the information, but they are rarely used.| **Good:** Some images<br>**Bad:** x | Improvements Here | Severity Here |
 | **3. User Control and Freedom:**<br>The website makes great use of undo and redo features and users can easily backtrack to previous pages using the browser's navigation arrows. | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **4. Error Prevention:**<br>| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **4. Error Prevention:**<br>The website makes use of error prevention messages to prevent the user from blank submissions.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br>The site does not prevent users with a "second chance" to evaluate potential errors. | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **6. Consistency and Standards:**<br>The site's layout is very consistent across all web pages.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **7. Recognition Rather than Recall:**<br>The site makes adequate use of search autofill tools to minimize the user's memory load.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **8. Flexibility and Efficiency of Use:**<br>The site | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **9. Aesthetic and Minimalist Design:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **10. Help and Documentation**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **8. Flexibility and Efficiency of Use:**<br>The site has a very barebones, simple design that should be easy to understand for most levels of web literacy. | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **9. Aesthetic and Minimalist Design:**<br>While the site benefits from a minimalist design, it could benefit from an increased aesthetic focus. | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **10. Help and Documentation**<br>The site uses various help tips and disclaimers to further assist users.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 ---
 
 ## 2. Heuristic Evaluation of Nevada's Official Tax Center Website
