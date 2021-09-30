@@ -61,5 +61,5 @@ Overall Evaluation:
 
 ## Credits
 
-Jakob Nielsen's 10 Usability Heuristics (https://www.uxness.in/2015/02/10-heuristic-principles-jakob-nielsens.html)
+Jakob Nielsen's 10 Usability Heuristics (https://www.uxness.in/2015/02/10-heuristic-principles-jakob-nielsens.html)<br>
 Joy Hsieh's Layout for Heuristic Evaluation (https://github.com/JoyHsieh/DH110-JoyHsieh-Assignment01/blob/main/README.md)
