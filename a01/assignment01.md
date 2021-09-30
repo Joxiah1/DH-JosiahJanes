@@ -28,8 +28,8 @@ Overall Evaluation:
 | **4. Error Prevention:**<br>| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **5. Helps Users Recognize, Diagnose, and Recover from Errors:**<br>The site does not prevent users with a "second chance" to evaluate potential errors. | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **6. Consistency and Standards:**<br>The site's layout is very consistent across all web pages.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **7. Recognition Rather than Recall:**<br>The site makes adequate use of | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
-| **8. Flexibility and Efficiency of Use:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **7. Recognition Rather than Recall:**<br>The site makes adequate use of search autofill tools to minimize the user's memory load.| **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
+| **8. Flexibility and Efficiency of Use:**<br>The site | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **9. Aesthetic and Minimalist Design:**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 | **10. Help and Documentation**<br> | **Good:** x<br>**Bad:** x | Improvements Here | Severity Here |
 ---
