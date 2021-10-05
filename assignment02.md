@@ -10,3 +10,15 @@ EXPLAIN PURPOSE OF UT, HOW & WHAT YOU WANT TO TEST ESPECIALLY BASED ON FINDINGS 
 
 ### Link to Online Survey used in Test
 https://forms.gle/zty4grXV3kLckA2R9
+
+---
+
+### Link to Pilot UT Video
+PILOT UT VIDEO GOES HERE
+
+---
+
+### Findings
+FINDINGS GO HERE
+
+---
