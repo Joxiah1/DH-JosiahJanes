@@ -14,7 +14,7 @@ https://forms.gle/zty4grXV3kLckA2R9
 ---
 
 ### Link to Pilot UT Video
-PILOT UT VIDEO GOES HERE
+https://drive.google.com/file/d/1lDM_m2Big7Nk5IVomj_Cl-eaglQoBb_v/view?usp=sharing
 
 ---
 
