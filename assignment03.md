@@ -49,10 +49,6 @@ Transcript of Interviewee's Statements:
 
 ---
 
-### Observation
-
----
-
 ### Reflection
 
 ---
