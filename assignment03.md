@@ -53,6 +53,7 @@ Transcript of Interviewee's Statements: https://docs.google.com/document/d/19n-f
 It shall first be noted that my participant was a prime example of our target userbase. Since most adults presumably know how to register their vehicles, our target demographic was predicted to be young people that would need to register their vehicle after purchasing it. Luckily, my participant fell perfectly into this category. My participant is a college-aged, technologically literate male that has never owned a car before. Therefore, they have never gone about this process, and evaluating them provided valuable information about how our target demographic thinks and behaves when tasked with registering their vehicle.
 
 When tasked with the hypothetical scenario of having to register a newly purchased vehicle, my participant quickly navigated to Google to search "Colorado Vehicle Registration". This search provides observors with several valuable pieces of information. Firstly, it shall be noted that my participant is based in Colorado, so he included the name of his state in the search. This communicates that users of this type understand that there are different rules and regulations for vehicle registration across states. Second, despite the fact that my participant initially stated that they would likely visit an official DMV website or location to obtain information about registering a vehicle,
+
 ---
 
 ### Credits
