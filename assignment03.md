@@ -35,15 +35,17 @@
 ---
 
 ### Qualitative Research Method
-The research will be conducted by asking the participant various questions about registering a vehicle and how they believe it would be done. Then the participant will be asked to go through the vehicle registration process themselves to see how it is done. After they feel that they have obtained this information, we will reconvene to discuss the strengths and weaknesses of this current method of research and registration. Then we will conclude by asking the participant how digital technology can be better used to fulfill their needs while completing this activity.
+The research will be conducted by asking the participant various questions about registering a vehicle and how they believe it would be done. Then the participant will be asked to go through the vehicle registration process themselves to see how it is done. After they feel that they have obtained this information, we will reconvene to discuss the strengths and weaknesses of this current method of research and registration. Then we will conclude by asking the participant to navigate to Nevada's official DMV website to ask how the website can be improved to more easily allow for this process to be completed.
 
 ---
 
 ### Research Materials
 
-Guide (Script):
+Guide (Script): https://docs.google.com/document/d/1B7etmFkeXyBGTifSt5Hr4Fllr2-htphYIgbGBeDF2i4/edit?usp=sharing
 
-Transcript:
+Video of Research Evaluation:
+
+Transcript of Interviewee's Statements:
 
 ---
 
