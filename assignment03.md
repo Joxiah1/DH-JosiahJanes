@@ -43,9 +43,9 @@ The research will be conducted by asking the participant various questions about
 
 Guide (Script): https://docs.google.com/document/d/1B7etmFkeXyBGTifSt5Hr4Fllr2-htphYIgbGBeDF2i4/edit?usp=sharing
 
-Video of Research Evaluation:
+Video of Research Evaluation: https://drive.google.com/file/d/1kzn4MixkZ7vx5SYjcK_nI10Oi8JANxAk/view?usp=sharing
 
-Transcript of Interviewee's Statements:
+Transcript of Interviewee's Statements: https://docs.google.com/document/d/19n-fB0na3Cm2XIaBL25EkJOWR2G_WQpNe1GIaXXi-mc/edit?usp=sharing
 
 ---
 
