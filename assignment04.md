@@ -43,6 +43,7 @@ How Cody is using this product
 > BLANK
 
 Cody's Journey Map
+
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/cody3.png" width="60%">
 
 #### 2. Natasha's Scenario & Journey Map
@@ -54,6 +55,7 @@ How Natasha is using this product
 > BLANK
 
 Natasha's Journey Map
+
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha3.png" width="60%">
 
 #### 3. Sam's Scenario & Journey Map
@@ -65,6 +67,7 @@ How Sam is using this product
 >BLANK
 
 Sam's Journey Map
+
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/sam2.png" width="60%">
 
 ---
