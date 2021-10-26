@@ -37,10 +37,10 @@ In this project, we will be using UX storytelling to further understand who our 
 ### 1. Cody's Scenario & Journey Map
 
 Why Cody is using this product
-> BLANK
+> Cody is a 16 year old high school student that is excited to have the opportunity to drive on his own. He asks his parents for help, but they encourage him to go about the process on his own so he can become more self-reliant. He needs a product that can provide him with simple instructions for beginners like himself to go obtain his driver license and begin driving for the first time.
 
 How Cody is using this product
-> BLANK
+> Cody is using the product as a way to hopefully obtain a step by step guide on how to begin and complete the process of obtaining his driver license. He also wants to find some information about whether he needs to schedule a written exam to receive his license and how to do so. He wants a solution that is straight forward and that will not stress him out more than he already is about the process.
 
 Cody's Journey Map
 
@@ -49,10 +49,10 @@ Cody's Journey Map
 ### 2. Natasha's Scenario & Journey Map
 
 Why Natasha is using this product
-> BLANK
+> Natasha is a 31 year old lawyer that has recently been tasked with defending a client that has been accused of driving illegally. She asks her mentors for information about the best way to proceed, but they are not confident in what they know about driving laws. Natasha takes it upon herself to find the information required to defend her client. At the same time, she is interested in consulting with the DMV and its resources because she needs to be in compliance with these laws herself as she needs to renew her driver license soon.
 
 How Natasha is using this product
-> BLANK
+> Natasha is using the product as a way to obtain a comprehensive list of information about the laws that govern citizens' use of vehicles in her state. However, she is a bit flustered and doubtful in her ability to acquire this information, and she would like to speak with a DMV official that may be able to assist her with the process. She uses the product to hopefully find a direct link to a complete list of this information as well as links to scheduling in person meetings with DMV officials and renewing her license.
 
 Natasha's Journey Map
 
@@ -61,10 +61,10 @@ Natasha's Journey Map
 ### 3. Sam's Scenario & Journey Map
 
 Why Sam is using this product
->BLANK
+> Sam is a 68 year old retired truck driver that is curious about his status as a rising senior driver. He wants to know whether he is abiding by the additional rules that apply to senior citizens, so he decides to research this information for himself. He is also interested in registering a vehicle that he recently bought.
 
 How Sam is using this product
->BLANK
+> Sam does not know how to use technology very well, so he is immediately doubtful in his ability to access this information online. He needs to find a link to the official DMV website or download the application to hopefully find quickly identifiable and trustworthy links to information about senior drivers. He would also appreciate an additional link that would take him to a submission form for submitting info for registering his newly purchased vehicle.
 
 Sam's Journey Map
 
@@ -73,6 +73,9 @@ Sam's Journey Map
 ---
 
 ### Reflection
+In reflection on the progress I have made so far, I am a bit doubtful in some of the solutions I have devised for the common problems that the intended userbase seems to face while attempting to obtain information from the DMV. From what I have learned, people just want clearly identifiable and trustworthy links to the sections that concern the issues they are trying to solve. However, perhaps there is an even better and more innovative way to solve this issue, but I am not aware of it at this point.
+
+Studying the intended userbase of this product has allowed me to think more deeply about these problems and their respective solutions and has made me feel more confident in some aspects while leading me to question other aspects of my intended design solutions. It also alerted me to how detached I really was from the intended userbase because I had great difficulty in constructing these user personas and scenarios. However, after completing this assignment, I feel much more connected to the intended userbase and their struggles and I believe it will greatly assist me in the rest of this class's future assignments.
 
 ---
 ### Credits
