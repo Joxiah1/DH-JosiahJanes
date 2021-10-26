@@ -13,22 +13,22 @@ In this project, we will be using UX storytelling to further understand who our 
 ### Persona & Empathy Map
 
 #### Persona 1: Cody Young - high school student, new driver
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody1.jpg" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody1.jpg" width="60%">
 
 #### Cody's Empathy Map
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody2.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody2.png" width="60%">
 
 #### Persona 2: Natasha George - lawyer, experienced driver
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="60%">
 
 #### Natasha's Empathy Map
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha2.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha2.png" width="60%">
 
 #### Persona 3: Sam Marks - retired truck driver, master driver
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="60%">
 
 #### Sam's Empathy Map
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam2.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam2.png" width="60%">
 
 ---
 
