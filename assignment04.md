@@ -34,7 +34,7 @@ In this project, we will be using UX storytelling to further understand who our 
 
 ### Scenarios & Journey Map
 
-#### 1. Cody's Scenario & Journey Map
+### 1. Cody's Scenario & Journey Map
 
 Why Cody is using this product
 > BLANK
@@ -46,7 +46,7 @@ Cody's Journey Map
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/cody3.png" width="60%">
 
-#### 2. Natasha's Scenario & Journey Map
+### 2. Natasha's Scenario & Journey Map
 
 Why Natasha is using this product
 > BLANK
@@ -58,7 +58,7 @@ Natasha's Journey Map
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha3.png" width="60%">
 
-#### 3. Sam's Scenario & Journey Map
+### 3. Sam's Scenario & Journey Map
 
 Why Sam is using this product
 >BLANK
