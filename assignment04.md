@@ -12,17 +12,17 @@ In this project, we will be using UX storytelling to further understand who our 
 
 ### Persona & Empathy Map
 
-Persona 1: Cody Young - high school student, new driver
+#### Persona 1: Cody Young - high school student, new driver
 
-Cody's Empathy Map
+#### Cody's Empathy Map
 
-Persona 2: Natasha George - lawyer, experienced driver
+#### Persona 2: Natasha George - lawyer, experienced driver
 
-Natasha's Empathy Map
+#### Natasha's Empathy Map
 
-Persona 3: Sam Marks - retired truck driver, master driver
+#### Persona 3: Sam Marks - retired truck driver, master driver
 
-Sam's Empathy Map
+#### Sam's Empathy Map
 
 ---
 
