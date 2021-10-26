@@ -28,7 +28,7 @@ Sam's Empathy Map
 
 ### Scenarios & Journey Map
 
-### 1. Cody's Scenario & Journey Map
+#### 1. Cody's Scenario & Journey Map
 
 Why Cody is using this product
 > BLANK
@@ -39,7 +39,7 @@ How Cody is using this product
 Cody's Journey Map
 
 
-### 2. Natasha's Scenario & Journey Map
+#### 2. Natasha's Scenario & Journey Map
 
 Why Natasha is using this product
 > BLANK
@@ -49,7 +49,7 @@ How Natasha is using this product
 
 Natasha's Journey Map
 
-### 3. Sam's Scenario & Journey Map
+#### 3. Sam's Scenario & Journey Map
 
 Why Sam is using this product
 >BLANK
