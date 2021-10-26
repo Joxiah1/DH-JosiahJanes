@@ -68,7 +68,7 @@ How Sam is using this product
 
 Sam's Journey Map
 
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam2.png" width="60%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam3.png" width="60%">
 
 ---
 
