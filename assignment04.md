@@ -10,7 +10,7 @@ In this project, we will be using UX storytelling to further understand who our 
 
 ---
 
-### Persona & Empathy Map
+#### Persona & Empathy Map
 
 # Persona 1: Cody Young - high school student, new driver
 
@@ -26,7 +26,7 @@ In this project, we will be using UX storytelling to further understand who our 
 
 ---
 
-### Scenarios & Journey Map
+#### Scenarios & Journey Map
 
 # 1. Cody's Scenario & Journey Map
 
@@ -61,7 +61,7 @@ Sam's Journey Map
 
 ---
 
-### Reflection
+#### Reflection
 
 ---
 ### Credits
