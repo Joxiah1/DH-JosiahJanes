@@ -14,10 +14,11 @@ More information about user personas and task scenarios can be found [here](http
 ---
 
 ### Tasks Supported by this Prototype
+As mentioned earlier, this prototype was specifically designed to more quickly connect users with what we believe to be the Nevada DMV's three most commonly used functions: appointment scheduling, vehicle registration, and driver license renewal. As shown in the prototype layout below, users can pick between these tasks at a very early stage in the demonstration. From their initial choices, the application guides users through a straightforward and step by step process to complete their desired task.
 
 ---
 
-### Prototype Design
+### Prototype Design Layout
 This is an all-encompassing image of the prototype's layout and its accompanying wireframes and wireflows.
 
 IMAGE HERE
