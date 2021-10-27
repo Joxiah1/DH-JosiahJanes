@@ -10,6 +10,7 @@ This project examines the potential solutions that could be used to solve the co
 It has been concluded that the common userbase wants a smartphone application that they can use to satisfy all of their DMV needs. While the app ought to include access to all of the original website's information, this low-fidelity prototype focuses exclusively on making appointment scheduling, vehicle registration, and driver license redemption and renewal as easy as possible. Since these are the primary and most used functions of the DMV website according to our users, these tasks have been chosen to test the prototype. Our users have abundantly indicated that they would prefer an application with a simple and direct layout, guiding links and submission forms, and an overall trustworthy and official feel.
 
 More information about user personas and task scenarios can be found [here](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment04.md)
+
 ---
 
 ### Tasks Supported by this Prototype
