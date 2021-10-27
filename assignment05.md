@@ -18,6 +18,9 @@ More information about user personas and task scenarios can be found [here](http
 ---
 
 ### Prototype Design
+This is an all-encompassing image of the prototype's layout and its accompanying wireframes and wireflows.
+
+If you would like to get a closer look at the prototype's layout , click this [link](https://www.figma.com/file/o7tVf0WiMINIEuIs7YjoXV/Assignment-5-Wireflow-Layout---Josiah-Janes---105090684?node-id=711%3A3346).
 
 ---
 
