@@ -25,7 +25,7 @@ More information about user personas and task scenarios can be found [here](http
 
 ---
 
-### User Feedback and Reflection
+### Reflection
 
 ---
 ### Credits
