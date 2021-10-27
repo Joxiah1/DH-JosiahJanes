@@ -17,7 +17,7 @@ More information about user personas and task scenarios can be found [here](http
 
 ---
 
-### Prototype Pictures
+### Prototype
 
 ---
 
