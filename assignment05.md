@@ -29,7 +29,7 @@ If you would like to get a closer look at the prototype's layout, click this [li
 
 ### Prototype Testing
 
-A random participant was asked to test this prototype, and the recording can be found [here](PUT VIDEO LINK IN HERE).
+A random participant was asked to test this prototype, and the recording can be found [here](https://drive.google.com/file/d/1R2ghQfgjshgRrIpR4C25AqYyZQfeXty2/view?usp=sharing).
 
 Task 1: Schedule an Appointment
 >BLANK
