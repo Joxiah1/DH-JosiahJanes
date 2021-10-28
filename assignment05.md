@@ -43,6 +43,11 @@ Task 3: Renew Driver License
 ---
 
 ### Reflection
+In reflection, I believe the prototype did a fantastic job of solving users' three most common needs when using Nevada's DMV website. As the participant noted, the app felt "definitely very user friendly" and they had no issues completing the tasks. The participant also seemed to become increasingly familiar with the prototype and its layout as the test continued, which is also a positive sign.
+
+When asked about what could have been done better, the participant felt that the prototype was actually designed well in its current from. When asked about what other services they commonly use at the DMV that could be incorporated in this prototype, the participant said that maybe a section could be added for submitting insurance claims.
+
+While I am pleased with the prototype, it only scratches the surface of the other services that this smartphone app solution should require in the product's final form. While the app benefits from being straight forward in its ability to help users to complete common tasks, it is lacking in the sense that it is not a good source of raw information. With that being said, if users want to consult with such information, they can simply navigate to the Nevada DMV website from the front page of the prototype and go from there.
 
 ---
 ### Credits
