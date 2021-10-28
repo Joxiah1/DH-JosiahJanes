@@ -21,7 +21,7 @@ As mentioned earlier, this prototype was specifically designed to more quickly c
 ### Prototype Design Layout
 This is an all-encompassing image of the prototype's layout and its accompanying wireframes and wireflows.
 
-IMAGE HERE
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a5wireflowpic.png" width="50%">
 
 If you would like to get a closer look at the prototype's layout, click this [link](https://www.figma.com/file/o7tVf0WiMINIEuIs7YjoXV/Assignment-5-Wireflow-Layout---Josiah-Janes---105090684?node-id=711%3A3346).
 
