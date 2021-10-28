@@ -32,13 +32,13 @@ If you would like to get a closer look at the prototype's layout, click this [li
 A random participant was asked to test this prototype, and the recording can be found [here](https://drive.google.com/file/d/1R2ghQfgjshgRrIpR4C25AqYyZQfeXty2/view?usp=sharing).
 
 Task 1: Schedule an Appointment
->BLANK
+>At the beginning stage of the test, the participant had to navigate forward from the main page that asks users to pick between the app and desktop version of the site. The participant noted the text between the options and opted to continue with the app because it "can be used to quickly navigate to [the] most used DMV services." Once reaching the home page, the participant quickly selected "Schedule Appointment". They then navigated to the calendar to choose the date of their appointment and they effectively understood that options marked in green were available. Because Friday the 13th was the only available option, they chose it. They quickly chose their time slot, 10 AM to 11 AM, under the same guiding principles. At this point, they noted that the prototype was "definitely very user friendly so far". Once taken to the page to input their identification information, they typed their information in and promptly clicked submit. They successfully completed the task of scheduling an appointment.
 
 Task 2: Renew Registration
->BLANK
+>The participant was then tasked with renewing their vehicle registration. From the previous appointment scheduling confirmation screen, they tapped "Return to Home Page". They then quickly clicked on "Renew Registration". They then entered their required information, and then promptly pressed submit. They successfully completed the task of renewing their vehicle registration without any issues.
 
 Task 3: Renew Driver License
->BLANK
+>The participant was then tasked with renewing their driver license. From the previous registration renewal screen, they tapped "Return to Home Page". They promptly clicked on "Renew License". They then quickly entered in their information and pressed submit. Upon receiving a notification that they were eligible to complete their registration, the participant then entered in their remaining pin number and credit card information and pressed submit without issue. It shall be noted, however, that the participant saw the label "PIN Number (Sent through Mail)" and thought that the pin would be sent to them through email. This is not necessarily the case, normally PINs are sent through paper mail. They then submitted their information. They successfully completed the task of renewing their driver license.
 
 ---
 
