@@ -29,6 +29,17 @@ If you would like to get a closer look at the prototype's layout, click this [li
 
 ### Prototype Testing
 
+A random participant was asked to test this prototype, and the recording can be found [here](PUT VIDEO LINK IN HERE).
+
+Task 1: Schedule an Appointment
+>BLANK
+
+Task 2: Renew Registration
+>BLANK
+
+Task 3: Renew Driver License
+>BLANK
+
 ---
 
 ### Reflection
