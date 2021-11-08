@@ -5,18 +5,23 @@
 ---
 
 ### Description of Project
-Brief summary of project, the process and the purpose of this interface design, the example wireframe, and the URL link to your prototype tool page that shows the full screen design tests.
+In this project, I will be revising my previous wireflow draft and digitizing it. Specifically, I will be simulating the proposed Nevada DMV app solution on Figma and digitizing the wireframes and flow in terms of an iPhone 8 screen. Afterward, I will test various graphic design layouts and variations to make the prototype more enjoyable and easy to use for the end user. This will also be done using Figma while using various plugins and other sources to verify that the prototype satisfies certain color contrast ratio and spacing requirements.
 
 ---
 
 ### Link to Digitized Wireflow
+Here is an all-encompassing photo of the project's digitized wireflow layout. For a closer look, follow this link [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1) (to the right).
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6wireflowpic.png" width="50%">
 
---
+---
+
 ### Screen Design
+Here is an all-encompassing photo of the project's graphic design testing space. For a closer look, follow this link [here] (https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1) (to the left).
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="50%">
+#### Layout Test to Ensure Proper Spacing
 #### Three Typographic Variations
 #### Three Shape Variations
 #### Two Color Schemes
-#### Layout Test to Ensure Proper Spacing
 
 ---
 
