@@ -9,7 +9,7 @@ In this project, I will be revising my previous wireflow draft and digitizing it
 
 ---
 
-### Link to Digitized Wireflow
+### Digitized Wireflow
 Here is an all-encompassing photo of the project's digitized wireflow layout. For a closer look, follow this link [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a6wireflowpic.png" width="50%">
@@ -17,7 +17,7 @@ Here is an all-encompassing photo of the project's digitized wireflow layout. Fo
 ---
 
 ### Screen Design
-Here is an all-encompassing photo of the project's graphic design testing space. For a closer look, follow this link [here] (https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
+Here is an all-encompassing photo of the project's graphic design testing space. For a closer look, follow this link [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="50%">
 #### Layout Test to Ensure Proper Spacing
