@@ -10,39 +10,40 @@ In this project, I will be revising my previous wireflow draft and digitizing it
 ---
 
 ### Digitized Wireflow
-Here is an all-encompassing photo of the project's digitized wireflow layout. For a closer look, follow this link [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
+Here is an all-encompassing photo of the project's digitized wireflow layout. For a closer look, follow this link (to the right) [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a6wireflowpic.png" width="50%">
 
 ---
 
 ### Screen Design
-Here is an all-encompassing photo of the project's graphic design testing space. For a closer look, follow this link [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
+Here is an all-encompassing photo of the project's graphic design testing space. For a closer look, follow this link (to the left) [here](https://www.figma.com/file/O9ewqfxcNRY4a2QCmcesmY/Assignment-6-Digitized-Wireflow---Josiah-Janes---105090684?node-id=0%3A1).
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="50%">
+
 #### Layout Test to Ensure Proper Spacing
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6spacingpic.png" width="50%">
+
 #### Three Typographic Variations
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6typographypic.png" width="50%">
+
 #### Three Shape Variations
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6shapepic.png" width="50%">
+
 #### Two Color Schemes
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6colorpic.png" width="50%">
+
+#### Accessibility (Color-Contrast) Check
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6contrasttest.png" width="50%">
+
+---
+
+### Description of Design Process
 
 ---
 
 ### Impression Test
 #### Video Recording
 #### Summary of Findings
-
----
-
-### Accessibility (Color-Contrast) Check
-#### Ensuring Accessibility at WCAG2.0 AA level
-
----
-
-### Design System
-#### Summary of Graphic Design
-TYPEFACE FAMILY + SIZE
-COLOR SCHEME: BACKGROUND, PRIMARY (DEFAULT TEXT), FOCUS (EX. BUTTON)
-LAYOUT GRID + SPACING
-#### Description of Graphical Interface Design Choices
 
 ---
