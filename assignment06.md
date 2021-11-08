@@ -39,6 +39,9 @@ Here is an all-encompassing photo of the project's graphic design testing space.
 ---
 
 ### Description of Design Process
+My previous research on the intended userbase of the Nevada DMV website and potential smartphone app users showed that users want a simple, trustworthy, and official aesthetic and feel for the website/app. This makes sense, as users of sites like Nevada's DMV website often are overwhelmed by the breadth of information that such sites offer as well as potential scams that could be used to phish personal information from users. As a previous user described, users also do not want a site or app that looks "cheap".
+
+With all of this in mind, the goal with this project's graphic design was to mimic the look and feel of other apps and websites that users regard as being simple and trustworthy. In accordance with this, I looked to websites and apps like Coinbase that are very good at being simple while conveying a sense of trustworthiness and functionality. While mimicking some of their own design choices in my own project, I also tested various other fonts, spacings, colors, etc. that could have worked with the site. I tested casual feeling designs, formal designs, etc., but I ended up sticking with a rather basic layout that I would expect out of a common app that users would find on the app store. While I believe that the app's current layout is sufficient in its simplicity, I believe it suffers from being easily copied from a malicious body that may seek to imitate the site to scam users. It was only after observing volunteer users of this app prototype and the official DMV website that I realized how important this is, and I will look further into how I can make my app both simple, yet hard to imitate. I will also show my current design to users to get their own feedback on what they feel and what I can change.
 
 ---
 
