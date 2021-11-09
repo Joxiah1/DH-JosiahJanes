@@ -50,6 +50,6 @@ With all of this in mind, the goal with this project's graphic design was to mim
 A video recording of the impression test I conducted can be found [here](https://drive.google.com/file/d/1LlgBZ9w89pABQlWjENAm2zJ6wTu0aiBz/view?usp=sharing).
 
 #### Summary of Findings
-BLANK
+It seems that the overall design of the hypothetical Nevada DMV app is a success. The user found the site to be "clean, simple, and visually pleasing". They also appreciated how "snappy" the site felt as well as how it benefitted from not being cluttered with information. However, the user did note that the app could be slightly improved by adding a search bar, but overall, it seems that the app's design is sufficiently user friendly in its current form and succeeds in not alienating users that may normally feel intimidated by a site like Nevada's official DMV website.
 
 ---
