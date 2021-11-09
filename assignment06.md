@@ -47,6 +47,9 @@ With all of this in mind, the goal with this project's graphic design was to mim
 
 ### Impression Test
 #### Video Recording
+A video recording of the impression test I conducted can be found [here](https://drive.google.com/file/d/1LlgBZ9w89pABQlWjENAm2zJ6wTu0aiBz/view?usp=sharing).
+
 #### Summary of Findings
+BLANK
 
 ---
