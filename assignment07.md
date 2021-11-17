@@ -29,7 +29,8 @@ This prototype supports three main tasks including scheduling an appointment, re
 ---
 
 ## Cognitive Walkthrough
-###Link to Cognitive Walkthrough Testing Video
+
+### Link to Cognitive Walkthrough Testing Video
 The cognitive testing evaluation video can be found [here](https://drive.google.com/file/d/1dBFKJMIeCQN-rbg5s8fsRTbenH_lz0aD/view?usp=sharing).
 ## Summary of Findings and Process
 
