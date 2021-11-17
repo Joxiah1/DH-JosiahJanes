@@ -10,12 +10,12 @@ The purpose of this project is to create an interactive, high fidelity prototype
 ---
 
 ### Interactive Prototype
-#### Link to Interactive Prototype
+### Link to Interactive Prototype
 The interactive prototype can be found [here](https://www.figma.com/proto/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=2%3A59&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A59).
 
 The backend Figma project for this prototype can be found [here](https://www.figma.com/file/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=0%3A1).
 
-#### Tasks Supported by this Prototype
+### Tasks Supported by this Prototype
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a7taskspic.png" width="25%">
 
@@ -29,9 +29,9 @@ This prototype supports three main tasks including scheduling an appointment, re
 ---
 
 ### Cognitive Walkthrough
-#### Link to Cognitive Walkthrough Testing Video
+###Link to Cognitive Walkthrough Testing Video
 The cognitive testing evaluation video can be found [here](https://drive.google.com/file/d/1dBFKJMIeCQN-rbg5s8fsRTbenH_lz0aD/view?usp=sharing).
-#### Summary of Findings and Process
+### Summary of Findings and Process
 
 ---
 
