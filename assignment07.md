@@ -15,6 +15,7 @@ The interactive prototype can be found [here](https://www.figma.com/proto/84UnkG
 
 The backend Figma project for this prototype can be found [here](https://www.figma.com/file/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=0%3A1).
 #### Tasks Supported by this Prototype
+This prototype supports three main tasks including scheduling an appointment, renewing one's registration, and renewing one's driver license. These three tasks were chosen based on users' most commonly used services when navigating to the Nevada DMV website, and in theory, this web app would expedite these processes while alleviating traffic from the Nevada DMV and its various physical locations.
 
 ---
 
