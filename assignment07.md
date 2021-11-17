@@ -4,12 +4,12 @@
 
 ---
 
-### Description of Project
+## Description of Project
 The purpose of this project is to create an interactive, high fidelity prototype of the Nevada DMV web app solution that I have been devising. By creating this prototype, I can finally give users the ability to navigate through the system solutions that I have devised. In doing so, I can get their feedback on those solutions as well as the site's overall layout and design. After conducting a cognitive walkthrough evaluation, I can then use the participant's feedback and performance to revise the current design as well.
 
 ---
 
-### Interactive Prototype
+## Interactive Prototype
 ### Link to Interactive Prototype
 The interactive prototype can be found [here](https://www.figma.com/proto/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=2%3A59&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A59).
 
@@ -23,18 +23,15 @@ This prototype supports three main tasks including scheduling an appointment, re
 
 ---
 
-### Wireflow and Interface Design
+## Wireflow and Interface Design
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
 
 ---
 
-### Cognitive Walkthrough
+## Cognitive Walkthrough
 ###Link to Cognitive Walkthrough Testing Video
 The cognitive testing evaluation video can be found [here](https://drive.google.com/file/d/1dBFKJMIeCQN-rbg5s8fsRTbenH_lz0aD/view?usp=sharing).
-### Summary of Findings and Process
+## Summary of Findings and Process
 
 ---
 
-### Revisions
-
----
