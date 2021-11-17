@@ -24,7 +24,7 @@ This prototype supports three main tasks including scheduling an appointment, re
 ---
 
 ### Wireflow and Interface Design
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
 
 ---
 
