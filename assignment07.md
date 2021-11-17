@@ -4,7 +4,7 @@
 
 ---
 
-## Description of Project
+### Description of Project
 The purpose of this project is to create an interactive, high fidelity prototype of the Nevada DMV web app solution that I have been devising. By creating this prototype, I can finally give users the ability to navigate through the system solutions that I have devised. In doing so, I can get their feedback on those solutions as well as the site's overall layout and design. After conducting a cognitive walkthrough evaluation, I can then use the participant's feedback and performance to revise the current design as well.
 
 ### Interactive Prototype
