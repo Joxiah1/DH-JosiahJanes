@@ -20,17 +20,13 @@ The backend Figma project for this prototype can be found [here](https://www.fig
 
 This prototype supports three main tasks including scheduling an appointment, renewing one's registration, and renewing one's driver license. These three tasks were chosen based on users' most commonly used services when navigating to the Nevada DMV website, and in theory, this web app would expedite these processes while alleviating traffic from the Nevada DMV website and its various physical locations.
 
----
-
 ### Wireflow and Interface Design
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
-
----
 
 ### Cognitive Walkthrough
 
 The cognitive testing evaluation video can be found [here](https://drive.google.com/file/d/1dBFKJMIeCQN-rbg5s8fsRTbenH_lz0aD/view?usp=sharing).
 
-## Summary of Findings and Process
+### Summary of Findings and Process
 
 ---
