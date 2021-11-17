@@ -17,7 +17,7 @@ The backend Figma project for this prototype can be found [here](https://www.fig
 
 #### Tasks Supported by this Prototype
 
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7taskspic.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7taskspic.png" width="25%">
 
 This prototype supports three main tasks including scheduling an appointment, renewing one's registration, and renewing one's driver license. These three tasks were chosen based on users' most commonly used services when navigating to the Nevada DMV website, and in theory, this web app would expedite these processes while alleviating traffic from the Nevada DMV website and its various physical locations.
 
