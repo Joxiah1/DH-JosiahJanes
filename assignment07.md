@@ -14,18 +14,23 @@ The purpose of this project is to create an interactive, high fidelity prototype
 The interactive prototype can be found [here](https://www.figma.com/proto/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=2%3A59&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A59).
 
 The backend Figma project for this prototype can be found [here](https://www.figma.com/file/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=0%3A1).
+
 #### Tasks Supported by this Prototype
-This prototype supports three main tasks including scheduling an appointment, renewing one's registration, and renewing one's driver license. These three tasks were chosen based on users' most commonly used services when navigating to the Nevada DMV website, and in theory, this web app would expedite these processes while alleviating traffic from the Nevada DMV and its various physical locations.
+
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7taskspic.png" width="50%">
+
+This prototype supports three main tasks including scheduling an appointment, renewing one's registration, and renewing one's driver license. These three tasks were chosen based on users' most commonly used services when navigating to the Nevada DMV website, and in theory, this web app would expedite these processes while alleviating traffic from the Nevada DMV website and its various physical locations.
 
 ---
 
 ### Wireflow and Interface Design
-Link to wireflow and interface design goes here
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="50%">
 
 ---
 
 ### Cognitive Walkthrough
 #### Link to Cognitive Walkthrough Testing Video
+The cognitive testing evaluation video can be found [here](
 #### Summary of Findings and Process
 
 ---
