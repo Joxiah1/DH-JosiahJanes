@@ -1,13 +1,29 @@
-# DH110-JosiahJanes
+# Creating an App Solution for Nevada's DMV
+## Josiah Janes
 
-# Demonstration Week01
+### Introuction: brief information about the project
+What is the project about? The motivation of the project and possible contribution.
 
-### h3: plain text size but bold
+### Design Statement:
+What is the issue and why do you think it is important to resolve that issue by your project?
 
-#### h4
+### Competitor Analysis: Heuristic Evaluation [assignment01]
+Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* product
 
-##### h5: caption
+### Competitor Analysis: Usability Testing [assignment02]
 
-###### h6: notes
+### User Research: Contextual Inquiry [assignment03]
+Summary and link to your assignment folder
 
-This repository is for DH110: UX+UI Design Course at UCLA.
+### UX Storytelling [persona+scenario, assignment04]
+Summary and link to your assignment folder
+
+### Wireframe and Graphic Design Element Variation [assignment05 + 06]
+
+### High-fidelity Prototype (functional/interactive prototype, assignment07)
+
+### Evaluation and Revision History
+
+### Pitch Video
+
+### Conclusion
