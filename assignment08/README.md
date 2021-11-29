@@ -35,7 +35,7 @@ In beginning my application's design, I created a low-fidelity prototype of the 
 ### Graphic and Interface Design
 I then made a second pass through my initial prototype's layout and design with an added emphasis on commonly accepted color contrast ratios and spacing requirements. This additional polishing phase allowed me to better understand how to incorporate the original site's color scheme into the application's own colors and design while maintaing proper color contrast ratios. I also devised several different options for font families, sizing, and even additional themes for users that may prefer alternative color schemes. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md)
 
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="50%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="30%">
 
 ### High-fidelity Prototyping [assignment07](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md).
 
