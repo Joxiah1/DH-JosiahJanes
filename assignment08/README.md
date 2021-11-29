@@ -10,7 +10,8 @@ When I talked with people about their opinions on their states' respective DMV's
 
 ### Competitor Analysis: Heuristic Evaluation [assignment01](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/a01/assignment01.md).
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* product
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/nevadadmvphoto.jpg" width="25%">
+
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/nevadadmvphoto.jpg" width="75%">
 
 ### Competitor Analysis: Usability Testing [assignment02](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment02.md).
 
