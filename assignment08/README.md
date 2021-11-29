@@ -1,13 +1,13 @@
 # Creating an Application Solution for Nevada's DMV
 ## Josiah Janes, Digital Humanities 110, Professor Sookyung Cho, Fall 2021
 
-### Introuction
+### Introduction
 The goal of this project was to create an application for users to easily interact with the Nevada DMV's most used services. The application includes functionality for scheduling an in-person appointment at the DMV, renewing one's registration, and renewing one's license. Both young and elderly people often use these services, so the application was designed to be as simple and user friendly as possible. According to some of the responses that have been received about the application's functionality and design, it seems that the application can be easily used by all users to complete these tasks.
 
 ### Design Statement
 When I talked with people about their opinions on their states' respective DMV's, they all mentioned that they anticipate feeling lost and confused when using their DMV's website. Through this UX project, I hoped to solve this issue by using the application I designed to alleviate stress and confusion on behalf of the user and to expedite some of the most commonly used DMV services.
 
-### Competitor Analysis: Heuristic Evaluation
+### Competitor Analysis
 To begin the project, I started by critically examining the usability of various government websites including the original website for the Nevada DMV. I used Jakob Nielsen's 10 usability heuristics guideline to make this evaluation and learned alot about where these types of websites both succeed and fail in meeting users' functionality needs and aesthetic preferences. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/a01/assignment01.md)
 
 [Here](https://dmvnv.com) is a link to the original website.
