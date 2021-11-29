@@ -9,6 +9,7 @@ When I talked with people about their opinions on their states' respective DMV's
 
 ### Competitor Analysis: Heuristic Evaluation
 To begin the project, I started by critically examining the usability of various government websites including the original website for the Nevada DMV. I used Jakob Nielsen's 10 usability heuristics guideline to make this evaluation and learned alot about where these types of website both succeed and fail in meeting user's needs. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/a01/assignment01.md).
+
 [Here](https://dmvnv.com). is a link to the original website.
 
 
