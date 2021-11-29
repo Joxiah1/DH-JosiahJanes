@@ -39,8 +39,6 @@ I then made a second pass through my initial prototype's layout and design with 
 
 ### High-fidelity Prototyping [assignment07](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md).
 
-### Evaluation and Revision History
-
 ### Pitch Video
 
 ### Conclusion
