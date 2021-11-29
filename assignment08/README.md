@@ -14,7 +14,8 @@ To begin the project, I started by critically examining the usability of various
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/nevadadmvphoto.png" width="75%">
 
-### Competitor Analysis: Usability Testing [assignment02](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment02.md).
+### Usability Testing 
+Using the original Nevada DMV website, I then conducted usability testing to understand how users interact with and understand the site. The previous heuristic evaluation helped me to identify issues with aesthetic coherence across the site and its third party systems as well as how the site's images are displayed. By asking a participant to complete some simple tasks such as renewing their driver license, I was able to see that there were additional issues with the site's original design. The participant thought the original site appeared to be easy to use at a glance, but that actually completing the tasks assigned to them was rather difficult and confusing. The participant also noted that the site looks rather bare and even untrustworthy in some aspects. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment02.md)
 
 ### User Research: Contextual Inquiry [assignment03](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment03.md).
 Summary and link to your assignment folder
