@@ -23,9 +23,9 @@ I then conducted an additional test to examine the common problems that users en
 ### UX Storytelling
 To take my user research process a step further, I developed several personas and empathy maps to better hypothesize and analyze this application's common userbase. As mentioned earlier, this can be somewhat of a challenge because the Nevada DMV is used by people of all ages and occupations. With this in mind, I developed three different personas ranging from a high school student to a retired adult. By understanding how these users think, what they value, and what they fear, I was better able to understand how to develop my application to better suit the needs of all people. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment04.md)
 
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody1.jpg" width="60%">
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="60%">
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="60%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody1.jpg" width="20%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="20%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="20%">
 
 ### Wireframe and Graphic Design Element Variation [assignment05](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment05.md) and [assignment06](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md).
 
