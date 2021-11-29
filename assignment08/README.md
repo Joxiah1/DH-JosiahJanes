@@ -20,8 +20,12 @@ Using the original Nevada DMV website, I then conducted usability testing to und
 ### User Research 
 I then conducted an additional test to examine the common problems that users encounter while using the website to register a vehicle with their respective DMV. This research also involved a hypothesis of the site's target userbase. While the site is used by all ages, this activity focused on how young adults (18-30) interact with the site and what can be redesigned to better suit their needs. From this research, the participant's interaction with the site helped to identify that users of this type prefer web pages that are simple, streamlined, guiding, and official in the way that they present and ask the user for information regarding vehicle registration. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment03.md)
 
-### UX Storytelling [assignment04](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment04.md).
-Summary and link to your assignment folder
+### UX Storytelling
+To take my user research process a step further, I developed several personas and empathy maps to better hypothesize and analyze this application's common userbase. As mentioned earlier, this can be somewhat of a challenge because the Nevada DMV is used by people of all ages and occupations. With this in mind, I developed three different personas ranging from a high school student to a retired adult. By understanding how these users think, what they value, and what they fear, I was better able to understand how to develop my application to better suit the needs of all people. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment04.md)
+
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/cody1.jpg" width="60%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="60%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="60%">
 
 ### Wireframe and Graphic Design Element Variation [assignment05](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment05.md) and [assignment06](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md).
 
