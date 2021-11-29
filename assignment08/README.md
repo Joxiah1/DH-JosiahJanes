@@ -13,7 +13,7 @@ To begin the project, I started by critically examining the usability of various
 [Here](https://dmvnv.com) is a link to the original website.
 
 
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/nevadadmvphoto.jpg" width="75%">
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/nevadadmvphoto.png" width="75%">
 
 ### Competitor Analysis: Usability Testing [assignment02](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment02.md).
 
