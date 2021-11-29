@@ -37,7 +37,10 @@ I then made a second pass through my initial prototype's layout and design with 
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="30%">
 
-### High-fidelity Prototyping [assignment07](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md).
+### High-fidelity Prototyping 
+The final step of the project involved the finalization of the previously devised layout and color scheme as well as tying all of the wireframes together to create a truly interactive high fidelity prototype. The best part of creating this interactive prototype is the ability to give the prototype to users to truly understand and watch how the interact with it in real time. This allowed me to troubleshoot some of my own design choices as well as the application's layout to better meet the needs of the user. According to the high fidelity prototype testing that I conducted, the application was successful in simplifying many of the tasks that users previously had trouble completing with the original website's design. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md)
+
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
 
 ### Pitch Video
 
