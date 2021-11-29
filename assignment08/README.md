@@ -45,7 +45,7 @@ The final step of the project involved the finalization of the previously devise
 ### Pitch Video
 
 ### Conclusion
-Overall, the application that I designed seems to be a success. According to users, the application is simple, easy to use, and aesthetically appealing. At the same time, there is so much more than can be added to this application, whether that be additional info, tasks, etc., and hopefully, websites like that of the Nevada DMV will implement app-based solutions such as this one to better meet users' needs in the future.
+Overall, the application seems to be a success. According to users, the application is simple, easy to use, and aesthetically appealing. At the same time, there is so much more than can be added to this application, whether that be additional info, tasks, etc., and hopefully, websites like that of the Nevada DMV will implement app-based solutions such as this one to better meet users' needs in the future.
 
 In terms of the actual process of completing this project, I learned so much about what goes into designing a prototype such as this one. Learning about how to use interface design apps like Figma was incredibly enjoyable and informative, and now I finally understand how these types of applications are designed from the ground up. Going into the project, I did not realize how important it is to study and understand the target userbase and how they interact with the product. While observing the way in which they interact with the product is incredibly valuable for feedback, I underestimated the tremendous impact that persona and empathy maps can have on design choices.
 
