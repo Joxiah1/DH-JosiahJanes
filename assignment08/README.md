@@ -27,9 +27,14 @@ To take my user research process a step further, I developed several personas an
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="50%">
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="50%">
 
-### Wireframe and Graphic Design Element Variation [assignment05](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment05.md) and [assignment06](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md).
+### Low-Fidelity Prototyping 
+In beginning my application's design, I created a low-fidelity prototype of the envisioned application solution. As identified in previous analyses of users' most used services on DMV websites of this type, I decided to include functionality for appointment scheduling, vehicle registration renewal, and driver license renewal. I also added an additional wireflow overlay to the prototype diagram to demonstrate how I felt the application should progress as the user interacted with it. To make users feel less confused and more trusting of the application, I removed much of the bulk of the original site, made the tasks simple and easy to complete, and added several confirmation screens to make users feel that they were completing their tasks successfully. At the same time, I also provided users with the option to use the original website at the starting page of the application. This rough outline helped to properly envision my project and look upon it critically upon completion. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment05.md)
 
-### High-fidelity Prototype [assignment07](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md).
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a5wireflowpic.png" width="50%">
+
+### Graphic Design Element Variation and [assignment06](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md).
+
+### High-fidelity Prototyping [assignment07](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md).
 
 ### Evaluation and Revision History
 
