@@ -40,9 +40,9 @@ I then made a second design pass through my initial prototype's layout with an a
 ### High-fidelity Prototyping 
 The final step of the project involved the finalization of the previously devised layout and color scheme as well as tying all of the wireframes together to create a truly interactive high fidelity prototype. The best part of creating this interactive prototype was the ability to give the prototype to users to truly understand and watch how they interact with it in real time. This allowed me to troubleshoot some of my own design choices as well as the application's layout to better meet the needs of the user. According to the high fidelity prototype testing that I conducted, the application was successful in simplifying many of the tasks that users previously had trouble completing with the original website's design. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md)
 
-<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
+[Here](https://www.figma.com/proto/84UnkGIfWpkQLEWP4fwWXy/Assignment-7-Interactive-Prototype---Josiah-Janes---105090684?node-id=2%3A59&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A59) is a link to the interactive prototype.
 
-### Pitch Video
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
 
 ### Conclusion
 Overall, the application seems to be a success. According to users, the application is simple, easy to use, and aesthetically appealing. At the same time, there is so much more than can be added to this application, whether that be additional info, tasks, etc., and hopefully, websites like that of the Nevada DMV will implement app-based solutions such as this one to better meet users' needs in the future.
