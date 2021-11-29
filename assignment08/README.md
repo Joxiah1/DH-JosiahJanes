@@ -14,10 +14,10 @@ To begin the project, I started by critically examining the usability of various
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/nevadadmvphoto.png" width="75%">
 
-### Usability Testing 
+### Usability Testing
 Using the original Nevada DMV website, I then conducted usability testing to understand how users interact with and understand the site. The previous heuristic evaluation helped me to identify issues with aesthetic coherence across the site and its third party systems as well as how the site's images are displayed. By asking a participant to complete some simple tasks such as renewing their driver license, I was able to see that there were additional issues with the site's original design. The participant thought the original site appeared to be easy to use at a glance, but that actually completing the tasks assigned to them was rather difficult and confusing. The participant also noted that the site looks rather bare and even untrustworthy in some aspects. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment02.md)
 
-### User Research 
+### User Research
 I then conducted an additional test to examine the common problems that users encounter while using the website to register a vehicle with their respective DMV. This research also involved a hypothesis of the site's target userbase. While the site is used by all ages, this activity focused on how young adults (18-30) interact with the site and what can be redesigned to better suit their needs. From this research, the participant's interaction with the site helped to identify that users of this type prefer web pages that are simple, streamlined, guiding, and official in the way that they present and ask the user for information regarding vehicle registration. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment03.md)
 
 ### UX Storytelling
@@ -27,12 +27,15 @@ To take my user research process a step further, I developed several personas an
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/natasha1.png" width="50%">
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/sam1.jpg" width="50%">
 
-### Low-Fidelity Prototyping 
+### Low-Fidelity Prototyping
 In beginning my application's design, I created a low-fidelity prototype of the envisioned application solution. As identified in previous analyses of users' most used services on DMV websites of this type, I decided to include functionality for appointment scheduling, vehicle registration renewal, and driver license renewal. I also added an additional wireflow overlay to the prototype diagram to demonstrate how I felt the application should progress as the user interacted with it. To make users feel less confused and more trusting of the application, I removed much of the bulk of the original site, made the tasks simple and easy to complete, and added several confirmation screens to make users feel that they were completing their tasks successfully. At the same time, I also provided users with the option to use the original website at the starting page of the application. This rough outline helped to properly envision my project and look upon it critically upon completion. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment05.md)
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a5wireflowpic.png" width="50%">
 
-### Graphic Design Element Variation and [assignment06](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md).
+### Graphic and Interface Design
+I then made a second pass through my initial prototype's layout and design with an added emphasis on commonly accepted color contrast ratios and spacing requirements. This additional polishing phase allowed me to better understand how to incorporate the original site's color scheme into the application's own colors and design while maintaing proper color contrast ratios. I also devised several different options for font families, sizing, and even additional themes for users that may prefer alternative color schemes. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment06.md)
+
+<img src="https://joxiah1.github.io/DH110-JosiahJanes/a6designprocesspic.png" width="50%">
 
 ### High-fidelity Prototyping [assignment07](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/assignment07.md).
 
