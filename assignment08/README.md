@@ -8,7 +8,7 @@ The goal of this project was to create an application for users to easily intera
 When I talked with people about their opinions on their states' respective DMV's, they all mentioned that they anticipate feeling lost and confused when using their DMV's website. Through this UX project, I hope to solve this issue by using the application I designed to alleviate stress and confusion on behalf of the user and to expedite some of the most commonly used DMV services.
 
 ### Competitor Analysis: Heuristic Evaluation
-To begin the project, I started by critically examining the usability of various government websites including the original website for the Nevada DMV. I used Jakob Nielsen's 10 usability heuristics guideline to make this evaluation and learned alot about where these types of website both succeed and fail in meeting user's needs. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/a01/assignment01.md).
+To begin the project, I started by critically examining the usability of various government websites including the original website for the Nevada DMV. I used Jakob Nielsen's 10 usability heuristics guideline to make this evaluation and learned alot about where these types of website both succeed and fail in meeting user's needs. [Read more...](https://github.com/Joxiah1/DH110-JosiahJanes/blob/main/a01/assignment01.md)
 
 [Here](https://dmvnv.com) is a link to the original website.
 
