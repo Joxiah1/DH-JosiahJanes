@@ -1,5 +1,5 @@
 # Creating an Application Solution for Nevada's DMV
-## Josiah Janes
+## Josiah Janes, Digital Humanities 110, Professor Sookyung Cho, Fall 2021
 
 ### Introuction
 The goal of this project was to create an application for users to easily interact with the Nevada DMV's most used services. The application includes functionality for scheduling an in-person appointment at the DMV, renewing one's registration, and renewing one's license. Both young and elderly people often use these services, so the application was designed to be as simple and user friendly as possible. According to some of the responses that have been received about the applications functionality and design, it seems that the application can be easily used by all users to complete these tasks.
