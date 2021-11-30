@@ -44,8 +44,8 @@ The final step of the project involved the finalization of the previously devise
 
 <img src="https://joxiah1.github.io/DH110-JosiahJanes/a7wireflowpic.png" width="80%">
 
-### Pitch Presentation
-A link to the Pitch Presentation can be found [here](https://drive.google.com/file/d/1S0L2Af-PO74HfPYgzWjwRNeu-evPZ_eJ/view?usp=sharing).
+### Pitch Video
+A link to the my pitch video presentation can be found [here](https://drive.google.com/file/d/1S0L2Af-PO74HfPYgzWjwRNeu-evPZ_eJ/view?usp=sharing).
 
 ### Conclusion
 Overall, the application seems to be a success. According to users, the application is simple, easy to use, and aesthetically appealing. At the same time, there is so much more than can be added to this application, whether that be additional info, tasks, etc., and hopefully, websites like that of the Nevada DMV will implement app-based solutions such as this one to better meet users' needs in the future.
